@@ -1,0 +1,5 @@
+Problem Link - http://codeforces.com/contest/706/problem/D
+
+Catagory = Trie
+
+Technique - Need to find the alternate bit from the trie Tree
