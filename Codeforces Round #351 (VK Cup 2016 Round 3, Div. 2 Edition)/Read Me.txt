@@ -1,0 +1,6 @@
+Solving Technique : Constructive Algorithm
+
+What is it? 
+
+Ans : It's just like some proofs in math: there are non-constructive ones which show that some property holds (or some object exists) without constructing the actual object, satisfying this property. Usually such proofs are proofs by contradiction or ones using the axiom of choice (I can't remember any usage of the axiom of choice in discrete math proofs though).
+The same applies to computational problems: if you are asked to return an object, satisfying some property, you might be able to prove such an object exists. By proving I mean you could in principle be able to check this somehow in runtime (probably, in polynomial time), however, you might be unable to guess a clever way of getting the object other than brute force.
